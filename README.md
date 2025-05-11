@@ -110,7 +110,7 @@ Wi-Fi credentials are hardcoded in the sketch. For production use:
 
 ## 📸 Screenshot
 
-> _(Optional: Add a screenshot of the web dashboard if you have one)_
+> <img src="images/ss.png" alt="Dashboard" width="500"/>
 
 ---
 
