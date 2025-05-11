@@ -5,8 +5,8 @@
 #include <SoftwareSerial.h>
 
 // Configuration
-#define WIFI_SSID "fnet_N"
-#define WIFI_PASS "29280117"
+#define WIFI_SSID "WIFI_SSID"
+#define WIFI_PASS "PASSWORD"
 #define PZEM_RX D6  // With voltage divider
 #define PZEM_TX D7
 
